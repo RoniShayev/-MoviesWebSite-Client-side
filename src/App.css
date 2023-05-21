@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+}
+
+.black
+{
+  text-align: center;
+  margin: auto;
+  border: solid 3px black; width: 600px;
+}
+
+.green
+{
+  border: solid 2px green; width: 400px;
+}
+
+.pic
+{
+  width: 300px; height: 300px;
+}
+
+.subborder
+{ 
+  border: solid 3px black;
+}
+
+.yellow
+{
+  background-color: yellow;
+}
+
+.white
+{
+  background-color: white;
+}
+
+.red
+{ 
+  border: solid 3px red;
+}
+
+
+
